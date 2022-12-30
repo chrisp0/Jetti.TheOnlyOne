@@ -6,7 +6,7 @@ namespace Jetti.TheOnlyOne
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, Jetti!");
+            Console.WriteLine("Hello, Jetti!"
             
         }
     }
